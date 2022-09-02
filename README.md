@@ -1,1 +1,1 @@
-I'm a software developer
+I'm a developer
