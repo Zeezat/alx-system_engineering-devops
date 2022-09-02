@@ -1,1 +1,1 @@
-I'm a developer
+I am a developer
