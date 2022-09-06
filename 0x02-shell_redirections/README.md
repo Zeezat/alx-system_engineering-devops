@@ -1,1 +1,1 @@
-1. Cofused smiley
+Display the content of the /etc/passwd file.
